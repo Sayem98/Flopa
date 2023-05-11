@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Grongert";
+  src: local("Grongert"), url('./font/Grøngert Round.ttf') format('truetype');
+}
+body{
+  font-family: "Grongert";
+  background: #f5efe8;
+}
